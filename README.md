@@ -21,7 +21,6 @@
   -[GitHub](https://www.github.com/Thomasple13)
 
   ## Link to Server
-    https://react-portfolio-seven-kappa.vercel.app/
 
   ## License
     This project is licensed by [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
